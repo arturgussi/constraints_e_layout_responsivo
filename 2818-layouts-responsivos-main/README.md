@@ -19,3 +19,9 @@ Fazer correções de layout conforme o projeto do Figma.
 Construir uma página de Checkout com títulos, cartões e botão;
 
 Ajustar o posicionamento dos elementos do cartão com o widget Expanded.
+
+Como saber a orientação atual do dispositivo com MediaQuery.of(context).orientation;
+
+Como fazer uma comparação de orientação com um operador condicional ternário;
+
+Aplicar uma forma mais limpa de lidar com layouts mais complexos dentro de um operador condicional ternário (isolando em widgets diferentes).
