@@ -15,3 +15,7 @@ Quando utilizar cada uma das formas de implementação;
 As informações mínimas necessárias para gerar a lista no estilo grid;
 
 Fazer correções de layout conforme o projeto do Figma.
+
+Construir uma página de Checkout com títulos, cartões e botão;
+
+Ajustar o posicionamento dos elementos do cartão com o widget Expanded.
